@@ -1,6 +1,22 @@
+> [!CAUTION]
+> At last this error came at 1 pm so we were not able to put screenshort we were instructed to work till 1:30
+
+{
+"message": "given email is not registered"
+}
+
+> [!CAUTION]
+> Unable to get proper idea of solution from docs as result we wasted time \n
+> [!IMPORTANT]
+> Potential improvement
+>
+> Use of database in backend \n
+> Use of redux thunk in frontend \n
+> better searching and sorting \n
+
 # Basic Frontend And Backend
 
-I tried my best to complete calculater backend is completed, social media backend is completed but react is not fully completed
+I tried my best to complete calculater backend is completed, social media backend is completed but react is not fully completed, i have used proper folder structure in it
 
 ## Problem 1
 
@@ -131,3 +147,7 @@ Respose for api 2
 ## Problem 2 Frontend
 
 I will use react with vite
+<img width="1440" alt="Screenshot 2025-03-28 at 1 10 19 PM" src="https://github.com/user-attachments/assets/b8cb913f-0151-4bac-a2fa-2b0fe9df4bba" />
+
+> [!NOTE]
+> I took refrence from flask docs, stackoverflow, github issues and react
