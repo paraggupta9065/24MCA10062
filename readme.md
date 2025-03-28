@@ -1,5 +1,7 @@
 # Basic Frontend And Backend
 
+I tried my best to complete calculater backend is completed, social media backend is completed but react is not fully completed
+
 ## Problem 1
 
 ### Basic Understanding
