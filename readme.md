@@ -58,3 +58,74 @@ sample response of our api
   ],
   "windowPrevState": "[43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107]"
 }`
+
+# Social media Frontend And Backend
+
+## Problem 2 Backend
+
+I am using same approtch for backend as above
+
+Respose for api 1
+`
+{
+  "posts": [
+    {
+      "content": "Post about vampire",
+      "id": 260,
+      "userid": 10
+    },
+    {
+      "content": "Post about kite",
+      "id": 118,
+      "userid": 10
+    },
+    {
+      "content": "Post about lamp",
+      "id": 140,
+      "userid": 10
+    },
+    {
+      "content": "Post about mountain",
+      "id": 634,
+      "userid": 10
+    },
+    {
+      "content": "Post about elephant",
+      "id": 633,
+      "userid": 10
+    }
+  ]
+}`
+
+Respose for api 2
+`[
+    {
+        "content": "Post about mountain",
+        "id": 634,
+        "userid": 10
+    },
+    {
+        "content": "Post about elephant",
+        "id": 633,
+        "userid": 10
+    },
+    {
+        "content": "Post about vampire",
+        "id": 260,
+        "userid": 10
+    },
+    {
+        "content": "Post about kite",
+        "id": 118,
+        "userid": 10
+    },
+    {
+        "content": "Post about lamp",
+        "id": 140,
+        "userid": 10
+    }
+]`
+
+## Problem 2 Frontend
+
+I will use react with vite
